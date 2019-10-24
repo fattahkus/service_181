@@ -24,7 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:layout_marginTop="20dp"
-            app:srcCompat="@drawable/bandaneira" />
+            app:srcCompat="@drawable/tyga" />
 
         <TextView
             android:id="@+id/textView"
@@ -32,7 +32,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="130dp"
             android:layout_marginTop="10dp"
-            android:text="Banda Neira"
+            android:text="TYGA"
             android:textColor="#FFFFFF"
             android:textSize="24sp" />
 
@@ -42,9 +42,9 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="30dp"
             android:layout_marginTop="10dp"
-            android:text="Yang Patah Tumbuh yang Hilang Berganti"
+            android:text="Girls Have Fun (Official Video) ft. Rich The Kid, G-Eazy"
             android:textColor="#CDFFFFFF"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <LinearLayout
             android:layout_width="match_parent"

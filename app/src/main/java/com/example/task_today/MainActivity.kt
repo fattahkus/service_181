@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        supportActionBar?.title="Service_181"
 
         var mediaPlayer: MediaPlayer? = MediaPlayer.create(this,R.raw.tyga)
 
